@@ -1,0 +1,9 @@
+/lang/
+/logs/
+
+forwarding.secret
+velocity.toml
+
+/*.jar
+# macOS file system dust
+*.DS_*
